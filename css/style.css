@@ -1,0 +1,69 @@
+body {
+background-color: lightblue;
+}
+p.p1 {
+text-decoration-color: red;
+}
+.img {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.section {
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+#header {
+    background-image: url("https://img4.goodfon.ru/wallpaper/nbig/8/a5/vashington-kepitalz-washington-capitals-khokkeinyi-klub-vash.jpg");
+    background-size: cover;
+}
+#header img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+#header p {
+    font-size: 25pt;
+    color: #3b464c;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+}
+.p2 {
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+    color: white;
+}
+#span1 {
+  font-size: 180%;
+  color: white;
+}
+#span2 {
+  font-size: 90%;
+  color: white;
+}
+#id1 {
+  background-image: url('https://img4.goodfon.ru/wallpaper/nbig/8/a5/vashington-kepitalz-washington-capitals-khokkeinyi-klub-vash.jpg');
+}
+span.span1 {
+  color: white;
+}
+#id2 {
+  background-image: url('https://img4.goodfon.ru/wallpaper/nbig/8/a5/vashington-kepitalz-washington-capitals-khokkeinyi-klub-vash.jpg');
+}
+#id3 {
+  font-size: 200%;
+  color: white;
+}
+#id4 {
+  background-image: url('https://img4.goodfon.ru/wallpaper/nbig/8/a5/vashington-kepitalz-washington-capitals-khokkeinyi-klub-vash.jpg');
+}
+h2.h {
+  color: white;
+}
+#id5 {
+  background-image: url('https://img4.goodfon.ru/wallpaper/nbig/8/a5/vashington-kepitalz-washington-capitals-khokkeinyi-klub-vash.jpg');
+}

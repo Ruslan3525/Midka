@@ -1,0 +1,113 @@
+body {
+background-color: lightblue;
+}
+p.p1 {
+text-decoration-color: red;
+}
+.img {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.section {
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+#header {
+    background-image: url("https://static9.depositphotos.com/1554103/1168/i/600/depositphotos_11688404-stock-photo-blue-circle-gradient-background-cuci.jpg");
+    background-size: cover;
+}
+#header img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+#header p {
+    font-size: 25pt;
+    color: #3b464c;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+}
+.p2 {
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+    color: white;
+}
+#span1 {
+  font-size: 180%;
+  color: white;
+}
+#span2 {
+  font-size: 90%;
+  color: white;
+}
+#id1 {
+  background-image: url('https://static9.depositphotos.com/1554103/1168/i/600/depositphotos_11688404-stock-photo-blue-circle-gradient-background-cuci.jpg');
+  color: white;
+}
+span.span1 {
+  color: white;
+}
+#id3 {
+  font-size: 200%;
+  color: white;
+}
+#id4 {
+  background-image: url('https://img4.goodfon.ru/wallpaper/nbig/8/a5/vashington-kepitalz-washington-capitals-khokkeinyi-klub-vash.jpg');
+}
+h2.h {
+  color: white;
+}
+#id5 {
+  background-image: url('https://img4.goodfon.ru/wallpaper/nbig/8/a5/vashington-kepitalz-washington-capitals-khokkeinyi-klub-vash.jpg');
+}
+.selected {
+    background-color: #f36f48;
+    font-weight: bold;
+    color: white;
+}
+table.table1 {
+  border: 4px double;
+  padding: 0.5%;
+  margin: 2%;
+  font-size: 200%;
+  color: white;
+}
+#id2 {
+  background-image: url('https://img4.goodfon.ru/wallpaper/nbig/8/a5/vashington-kepitalz-washington-capitals-khokkeinyi-klub-vash.jpg');
+  color: white;
+}
+#players {
+    background-image: url('https://img4.goodfon.ru/wallpaper/nbig/8/a5/vashington-kepitalz-washington-capitals-khokkeinyi-klub-vash.jpg');
+  color: white;
+}
+table.table2 {
+  border: 4px double;
+  padding: 0.5%;
+  margin: 2%;
+  font-size: 200%;
+  color: white;
+}
+#contacts img {
+    height: 50px;
+    width: 50px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#contacts a {
+    text-decoration: none;
+}
+#contacts img:hover {
+    opacity: 0.8;
+}
+#contacts {
+    text-align: center;
+    background-image: url('https://img4.goodfon.ru/wallpaper/nbig/8/a5/vashington-kepitalz-washington-capitals-khokkeinyi-klub-vash.jpg');
+}
+p.p9 {
+  color: white;
+}
